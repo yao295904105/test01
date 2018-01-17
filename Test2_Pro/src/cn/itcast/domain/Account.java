@@ -52,4 +52,5 @@ public class Account {
 		return "Account [id=" + id + ", username=" + username + ", cardid=" + cardid + ", balance=" + balance
 				+ ", moneyRate=" + moneyRate + "]";
 	}
+	//¹þ¹þ¹þ
 }
